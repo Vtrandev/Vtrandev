@@ -7,10 +7,6 @@ Check out my <a href="https://www.vuongtran.dev" target="_blank">portfolio!</a>
 
 My resume can be found <a href="https://drive.google.com/file/d/173WDjRDoyn_ahqr383_wVCrgsi2Wxm3H/view" target="_blank">here!</a>
 
-<figure>
-<img src="https://komarev.com/ghpvc/?username=Vtrandev&style=flat-square&color=blue" alt="" />
-</figure>
-
 ## My Tech skills
 
   ### Languages
